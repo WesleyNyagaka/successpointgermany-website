@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Privacy Policy – Success Point Germany</title><link rel="stylesheet" href="./style.css"></head>
+<body>
+<nav class="site-nav"><div class="shell nav-inner"><a href="./index.html" class="nav-logo"><span class="flag">🇩🇪</span><span>Success Point Germany</span></a><ul class="nav-links"><li><a href="./index.html">Home</a></li><li><a href="./pricing.html">Pricing</a></li><li><a href="./contact.html">Contact</a></li></ul><div class="nav-cta"><a href="./contact.html" class="btn btn-yellow">Book a free call</a></div></div></nav>
+<section><div class="shell" style="max-width:720px;">
+<span class="kicker">Legal</span>
+<h1 style="margin-bottom:2rem;">Privacy Policy</h1>
+<p style="color:var(--grey-text); margin-bottom:1rem;">This privacy policy explains how Success Point Germany collects and uses your personal data in accordance with the GDPR (EU 2016/679) and German data protection law (BDSG).</p>
+<h3 style="margin:1.5rem 0 0.5rem;">1. Data Controller</h3>
+<p style="color:var(--grey-text);">Wesley Nyagaka Nyakeriga<br>Success Point Germany<br>Email: successpointgermany@outlook.de</p>
+<h3 style="margin:1.5rem 0 0.5rem;">2. Data We Collect</h3>
+<p style="color:var(--grey-text);">We collect data you provide directly: name, email address, and any information you share during consultations. We use this solely to provide our services.</p>
+<h3 style="margin:1.5rem 0 0.5rem;">3. Use of Data</h3>
+<p style="color:var(--grey-text);">Your data is used to respond to enquiries, deliver services, and process payments. We do not sell or share your data with third parties except where required to deliver the service (e.g. Stripe for payments, Calendly for scheduling).</p>
+<h3 style="margin:1.5rem 0 0.5rem;">4. Your Rights</h3>
+<p style="color:var(--grey-text);">You have the right to access, correct, or delete your personal data at any time. Contact us at successpointgermany@outlook.de.</p>
+<h3 style="margin:1.5rem 0 0.5rem;">5. Contact</h3>
+<p style="color:var(--grey-text);">For any data protection queries: successpointgermany@outlook.de</p>
+</div></section>
+<footer class="site-footer"><div class="shell"><div class="footer-bottom"><span>© 2025 Success Point Germany.</span><div style="display:flex;gap:1.5rem;"><a href="./privacy.html">Privacy Policy</a><a href="./impressum.html">Impressum</a></div></div></div></footer>
+</body></html>

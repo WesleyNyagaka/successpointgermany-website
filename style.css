@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact – Success Point Germany</title>
+  <meta name="description" content="Book a free consultation or get in touch with Success Point Germany.">
+  <link rel="stylesheet" href="./style.css">
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+</head>
+<body>
+<nav class="site-nav">
+  <div class="shell nav-inner">
+    <a href="./index.html" class="nav-logo"><span class="flag">🇩🇪</span><span>Success Point Germany</span></a>
+    <ul class="nav-links">
+      <li><a href="./index.html">Home</a></li><li><a href="./services.html">Services</a></li><li><a href="./about.html">About</a></li><li><a href="./pricing.html">Pricing</a></li><li><a href="./faq.html">FAQ</a></li><li><a href="./contact.html" class="active">Contact</a></li>
+    </ul>
+    <div class="nav-cta">
+      <a href="https://wa.me/491712009762" class="nav-phone">💬 WhatsApp</a>
+      <a href="./contact.html" class="btn btn-yellow">Book a free call</a>
+    </div>
+    <button class="hamburger" onclick="toggleMenu()" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="./index.html">Home</a><a href="./services.html">Services</a><a href="./about.html">About</a><a href="./pricing.html">Pricing</a><a href="./faq.html">FAQ</a><a href="./contact.html">Contact</a>
+    <a href="./contact.html" class="btn btn-yellow" style="margin-top:0.5rem;">Book a free call</a>
+  </div>
+</nav>
+
+<section>
+  <div class="shell">
+    <div class="section-head">
+      <span class="kicker">Contact</span>
+      <h1>Let's talk about your Germany plan.</h1>
+      <p>Book a free 20-minute call or reach out directly. No pressure — just an honest conversation about what's realistic for you.</p>
+    </div>
+    <div class="contact-grid">
+      <div>
+        <h3 style="margin-bottom:0.5rem;">Get in touch</h3>
+        <p style="color:var(--grey-text); font-size:0.9rem; margin-bottom:1.5rem;">Pick a time using the calendar, or contact us directly. We respond within 1 business day.</p>
+        <div class="contact-methods">
+          <a class="contact-method" href="mailto:successpointgermany@outlook.de">
+            <span class="icon">✉️</span>
+            <div><span class="c-label">Email</span><span class="c-value">successpointgermany@outlook.de</span></div>
+          </a>
+          <a class="contact-method" href="https://wa.me/491712009762" target="_blank">
+            <span class="icon">💬</span>
+            <div><span class="c-label">WhatsApp</span><span class="c-value">Message us directly</span></div>
+          </a>
+          <a class="contact-method" href="https://calendly.com/successpointgermany" target="_blank">
+            <span class="icon">📅</span>
+            <div><span class="c-label">Calendly</span><span class="c-value">calendly.com/successpointgermany</span></div>
+          </a>
+        </div>
+        <div style="background:var(--grey-light); padding:1.5rem; margin-top:1.5rem;">
+          <h4 style="margin-bottom:0.5rem; font-size:0.9rem;">What to expect on the call</h4>
+          <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+            <li style="font-size:0.85rem; color:var(--grey-text); display:flex; gap:0.5rem;"><span style="color:var(--yellow-dark); font-weight:700;">→</span> We review your background and goals</li>
+            <li style="font-size:0.85rem; color:var(--grey-text); display:flex; gap:0.5rem;"><span style="color:var(--yellow-dark); font-weight:700;">→</span> We tell you which route is realistic</li>
+            <li style="font-size:0.85rem; color:var(--grey-text); display:flex; gap:0.5rem;"><span style="color:var(--yellow-dark); font-weight:700;">→</span> We recommend the right package (or none)</li>
+            <li style="font-size:0.85rem; color:var(--grey-text); display:flex; gap:0.5rem;"><span style="color:var(--yellow-dark); font-weight:700;">→</span> 20 minutes. No obligation.</li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <h3 style="margin-bottom:0.25rem;">Book a free 20-minute call</h3>
+        <p style="color:var(--grey-text); font-size:0.85rem; margin-bottom:1.25rem;">Choose a time and we'll confirm immediately.</p>
+        <div class="calendly-inline-widget" data-url="https://calendly.com/successpointgermany?hide_gdpr_banner=1&primary_color=ffcc00"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="shell">
+    <div class="footer-grid">
+      <div class="footer-brand"><div class="logo">🇩🇪 Success Point Germany</div><p>Practical guidance for studying and working in Germany.</p><div class="social-links"><a href="#" aria-label="WhatsApp">💬</a><a href="#" aria-label="LinkedIn">in</a><a href="#" aria-label="Instagram">📷</a></div></div>
+      <div class="footer-col"><h4>Services</h4><ul><li><a href="./services.html">CV Writing</a></li><li><a href="./services.html">Cover Letters</a></li><li><a href="./services.html">Route Planning</a></li></ul></div>
+      <div class="footer-col"><h4>Company</h4><ul><li><a href="./about.html">About</a></li><li><a href="./pricing.html">Pricing</a></li><li><a href="./faq.html">FAQ</a></li></ul></div>
+      <div class="footer-col"><h4>Legal</h4><ul><li><a href="./privacy.html">Privacy Policy</a></li><li><a href="./impressum.html">Impressum</a></li></ul></div>
+    </div>
+    <div class="footer-bottom"><span>© 2025 Success Point Germany.</span><div style="display:flex;gap:1.5rem;"><a href="./privacy.html">Privacy Policy</a><a href="./impressum.html">Impressum</a></div></div>
+  </div>
+</footer>
+
+<script src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<script>function toggleMenu(){document.getElementById('mobileMenu').classList.toggle('open');}</script>
+</body>
+</html>
